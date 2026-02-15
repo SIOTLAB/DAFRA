@@ -83,7 +83,7 @@ At each epoch:
 
 ## License
 
-Source headers indicate:
-
-- DAFRA code is released under Apache License 2.0.
-- Arista EOS SDK dependency is BSD 3-clause licensed.
+- DAFRA source code in this repository is licensed under Apache License 2.0 (`LICENSE`).
+- This project depends on Arista EOS SDK (`eosdk`), which is BSD 3-Clause licensed.
+- Third-party license text and attribution are provided in `THIRD_PARTY_NOTICES.md`.
+- If you redistribute binaries that include or are linked with EOS SDK, include the BSD 3-Clause notice in accompanying documentation/materials.
