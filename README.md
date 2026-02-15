@@ -85,5 +85,5 @@ At each epoch:
 
 Source headers indicate:
 
-- DAFRA code is released under GNU GPL v3 (or later).
+- DAFRA code is released under Apache License 2.0.
 - Arista EOS SDK dependency is BSD 3-clause licensed.
